@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+#one #three #five {
+    color: rgb(168, 15, 66);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#number-two {
+    color: rgb(56, 31, 197);
+    font-size: 36px;
+}
+
+.cool-class {
+    color: green;
+    font-size: 24px;
+}
+
+.a-class {
+    background-color: rgb(105, 230, 178);
+    font-size: 24px;
+    font-weight: bold;
+    
+}
